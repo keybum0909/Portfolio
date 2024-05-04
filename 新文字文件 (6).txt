@@ -28,6 +28,11 @@
             text-decoration: none;
             margin: 0 10px;
         }
+
+        nav a img{
+            width: 50%;
+        }
+
         section {
             padding: 20px;
             .timeline {
